@@ -30,7 +30,7 @@
         <link rel="stylesheet" href="glightbox/css/glightbox.min.css">
 
         <!--------- Font Awesome library link ----------->
-        <link rel="stylesheet" href="fontawesome-free-6.5.2-web/css/all.css">
+        <script src="https://kit.fontawesome.com/a4250df899.js" crossorigin="anonymous"></script>
 
         <!----------- Bootstract icon link ---------->
         <link rel="stylesheet" href="bootstrap-icons/bootstrap-icons.css">
